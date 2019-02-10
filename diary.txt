@@ -44,6 +44,12 @@
 **									**
 **************************************************************************
 
-
+**************************************************************************
+**									**
+**				  Week 5				**
+**			  10/02/2019 - 16/02/2019			**
+**									**
+**************************************************************************
+10/02/2019 Sunday: The group got together for about 3 hours. UML class diagram and use case diagrams were worked on. Modification and work on the web application. Agreed on use case detail elaboration. Next tasks were decided on and allocated.
 
 
