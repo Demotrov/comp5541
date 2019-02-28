@@ -1,0 +1,55 @@
+**************************************************************************
+**									**
+**				  Week 1				**
+**			 13/01/2019 - 19/01/2019			**
+**									**
+**************************************************************************
+
+15/01/2019 Tuesday: During the class break, groups were still in the process of being formed. The members present discussed their strengths in programming, and the language to program with was decided to be PHP. Phone numbers were exchanged.
+
+16/01/2019 Wednesday: Whatsapp group was created.
+
+
+
+**************************************************************************
+**									**
+**				  Week 2				**
+**			 20/01/2019 - 26/01/2019			**
+**									**
+**************************************************************************
+
+22/01/2019 Tuesday: After class, the group met up to talk about the role of each member. Prithu was decided to be the main developper due to his vast experience in PHP. Sam was designated the tester, while Michael and Dimitri were chosen for documentation and support.
+
+
+
+**************************************************************************
+**									**
+**				  Week 3				**
+**			  27/01/2019 - 02/02/2019			**
+**									**
+**************************************************************************
+29/01/2019 Tuesday: The group discussed the different requirements and a strategy for completing them. After class, the group got together, UML and MVC were researched and discussed. Saturday was decided to be the next group meeting.
+
+02/02/2019 Saturday: The group got together for about 4 hours. The testing program PHPunit was decided to be used, a github for the team was created, Prithu demonstrated a visual representation of what the graphical interface would look like and his premature code. The group began researching and creating proper documentation. Use cases were agreed upon.
+
+
+
+
+
+
+**************************************************************************
+**									**
+**				  Week 4				**
+**			  03/02/2019 - 09/02/2019			**
+**									**
+**************************************************************************
+
+**************************************************************************
+**									**
+**				  Week 5				**
+**			  10/02/2019 - 16/02/2019			**
+**									**
+**************************************************************************
+10/02/2019 Sunday: The group got together for about 3 hours. UML class diagram and use case diagrams were worked on. Modification and work on the web application. Agreed on use case detail elaboration. Next tasks were decided on and allocated.
+
+
